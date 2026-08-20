@@ -1,0 +1,15 @@
+{
+  "name": "星星计划",
+  "short_name": "星星计划",
+  "description": "可爱的像素风计划与进度记录应用",
+  "start_url": "/star-plan-pixel/",
+  "scope": "/star-plan-pixel/",
+  "display": "standalone",
+  "background_color": "#fff7e8",
+  "theme_color": "#fff7e8",
+  "icons": [
+    { "src": "./icon-192.png?v=5", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png?v=5", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
+
